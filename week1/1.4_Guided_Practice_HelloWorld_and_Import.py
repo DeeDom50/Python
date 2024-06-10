@@ -1,2 +1,4 @@
-print("devdom522");
-print("Hello World, my name is Devante");
+import hello;
+
+hello.my_function();
+print(hello.name);
