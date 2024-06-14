@@ -8,5 +8,3 @@ print("Type: " + platform.machine())
 print("Computer Name: " + platform.node()) 
 
 print("Processor: " + platform.processor()) 
-
-print("Edition: " + platform.win32_edition()) 
