@@ -1,7 +1,19 @@
 import turtle;
 
-#style = ("Courier", 30, "italic");
-#turtle.color("purple");
-turtle.write("Hello World!");
+# Set up the screen
+screen = turtle.Screen()
+screen.title("Writing to Turtle")
 
-turtle.hideturtle();
+# Set up the turtle
+t = turtle.Turtle()
+t.hideturtle()
+
+# Customize appearance
+t.color("blue")
+style = ("Courier", 30, "italic")
+
+# Write text
+t.write("Hello, Turtle!", font=style, align="center")
+
+# Keep the window open
+screen.mainloop()
