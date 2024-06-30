@@ -1,0 +1,10 @@
+This is a complex PDF document.
+It contains multiple pages with more structured and detailed text.
+The purpose is to test the extraction of text from a more complex document.
+The second page of the complex PDF document contains additional information.
+We include more text here to simulate a more detailed and lengthy document.
+Continuing on the third page, we see more detailed descriptions and structured text.
+This helps us test the robustness of our PDF text extraction process.
+Finally, this is the fourth page of the complex PDF document.
+The test should handle all pages and extract text correctly.
+Thank you for reading through this complex PDF.
