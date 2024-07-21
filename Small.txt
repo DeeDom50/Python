@@ -1,0 +1,4 @@
+This is a simple PDF document.
+It only contains a single page of text.
+The purpose of this document is to test the basic functionality of PDF text extraction.
+Thank you for reading.
